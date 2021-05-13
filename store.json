@@ -2,6 +2,6 @@
   "images": {
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-php-7.4-alpine": "1.0.0",
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-php-7.4-buster": "1.0.0",
-    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-php-7.4-fpm-buster": "1.0.0"
+    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-php-7.4-fpm-buster": "1.0.1"
   }
 }
