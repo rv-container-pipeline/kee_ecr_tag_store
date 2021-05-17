@@ -10,6 +10,7 @@
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-sdk-3.1-alpine": "1.0.1",
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-sdk-3.1-buster": "1.0.0",
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-runtime-3.1-alpine": "1.0.0",
-    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-runtime-3.1-slim": "1.0.0"
+    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-runtime-3.1-slim": "1.0.0",
+    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-sdk-5-alpine": "1.0.0"
   }
 }
